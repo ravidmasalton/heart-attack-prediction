@@ -24,8 +24,7 @@ Build a system that:
 - `data_heart producer.ipynb` - Kafka producer simulator (optional)
 - `heart_disease_uci.csv` - Dataset used for model training
 - `config.txt` - Configuration settings and execution commands
-- `*.pdf` - Research paper and reports
-
+- 
 ## ▶️ How to Run
 
 ### 1. Install Dependencies
